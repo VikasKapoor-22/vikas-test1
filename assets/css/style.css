@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins:wght@200;300&family=Roboto:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+/* header section start */
+.d-flex {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.nav-font-family {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #025066;
+}
+
+.f-weight-500 {
+    font-weight: 600px;
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
+
+.c-pointer {
+    cursor: pointer;
+}
+
+.nav-p-40 {
+    padding: 30px 0px;
+}
+
+.hero-s-bg-image {
+    background: url("../image/png/flate-bg-image.png");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: cover;
+}
+
+.morbi-family {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 124.69%;
+    color: #FFFFFF;
+}
+
+.morbi-content-family {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.contact-now-family {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #025066;
+    background: #FFFFFF;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.mw-498 {
+    max-width: 498px;
+}
+
+.mw-539 {
+    max-width: 539px;
+}
+
+.pt-42 {
+    padding-top: 42px;
+    padding-bottom: 60px;
+}
+
+.contact-now-p {
+    padding: 18px 33px;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+    right: 0;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.h-100vh {
+    min-height: 100vh;
+}
+
+.ml-15 {
+    margin-left: 15px;
+}
+
+.pb-23 {
+    padding-bottom: 23px;
+}
+
+/* header section end */
+/* main section start */
+.our-service-family {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.c-building-family {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #025066;
+}
+
+.mw-280 {
+    max-width: 280px;
+}
+
+.c-building-content-family {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 139.69%;
+    color: rgba(2, 80, 102, 0.7);
+}
+
+.h-10 {
+    height: 15px;
+}
+
+.mw-368 {
+    max-width: 368px;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pt-30 {
+    padding-top: 30px;
+}
+
+.view-project-family {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 120.19%;
+    color: #025066;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.mt-70 {
+    margin-top: 70px;
+}
+
+.make-unique-family {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.solution-interior-family {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #025066;
+}
+
+.solution-interior-content-family {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 139.69%;
+    color: rgba(2, 80, 102, 0.7);
+}
+
+.p-24 {
+    padding: 24px 0px;
+}
+
+.pt-16 {
+    padding-top: 16px;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.mw-40 {
+    max-width: 30%;
+}
+
+.mw-446 {
+    max-width: 446px;
+}
+
+.mauris-family {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #025066;
+}
+
+.mauris-content-family {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 139.69%;
+    color: rgba(2, 80, 102, 0.7);
+}
+
+.mw-30 {
+    max-width: 40%;
+}
+
+.pt-51 {
+    padding-top: 51px;
+}
+
+/* main section end */
